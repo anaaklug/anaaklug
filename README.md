@@ -8,7 +8,7 @@ Learning programming, love gaming & art
 </p>
 <hr>
 
-<strong>You can contact me on:</strong>
+<strong>You can find me on:</strong>
 <p align="center">
     <a href="https://steamcommunity.com/id/aklug" target="_blank">
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
